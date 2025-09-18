@@ -1,5 +1,7 @@
 # SFU-TinyBERT-Project
-Fine tuning TinyBERT with SQuAD 2.0
+Fine tuning TinyBERT-4L with SQuAD 2.0
+* Base Model: https://huggingface.co/huawei-noah/TinyBERT_General_4L_312D
+* SQuAD 2.0: https://rajpurkar.github.io/SQuAD-explorer/
 
 The main file is `project.ipynb`
 * Follow the instructions in this file to get it running
